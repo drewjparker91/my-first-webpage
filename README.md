@@ -25,4 +25,4 @@ _HTML_
 
 ### License
 
-Copyright (c) 2020 Sean Wilson, Drew Parker This software is licensed under the MIT license.
+Copyright (c) 2020 Sean Wilson, Drew Parker This software is licensed under the MIT license. 
