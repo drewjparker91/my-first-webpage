@@ -1,3 +1,15 @@
 h1 {
   color: red;
+  text-align: center;
+  font-style: italic
+}
+
+h2 {
+  font-weight: bold;
+  font-family: cursive;
+}
+
+li {
+  font-size: large;
+  line-height: 30px;
 }
